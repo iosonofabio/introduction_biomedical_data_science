@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="172.87752mm"
+   height="81.413742mm"
+   viewBox="0 0 172.87752 81.413742"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="git.svg">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path938" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path932" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path938-1" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="495.12625"
+     inkscape:cy="177.49853"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-global="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1031"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-21.987305,-16.838678)">
+    <g
+       id="g925"
+       transform="matrix(0.80254634,0,0,0.80254634,9.4376435,3.7616186)">
+      <path
+         id="rect10-6-7-5"
+         style="fill:#e3e3e3;fill-opacity:1;stroke:#000000;stroke-width:0.62534;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 18.604629,20.178125 c 22.154459,6.634942 47.98067,-3.660681 64.397119,0 v 90.022405 c -12.74213,-1.93474 -43.497099,11.20667 -64.397119,0 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="rect10-6-7"
+         style="fill:#e3e3e3;fill-opacity:1;stroke:#000000;stroke-width:0.62534;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 17.546295,21.236462 c 22.154459,6.634942 47.98067,-3.660681 64.397119,0 v 90.022408 c -12.74213,-1.93474 -43.497099,11.20667 -64.397119,0 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="rect10-6"
+         style="fill:#e3e3e3;fill-opacity:1;stroke:#000000;stroke-width:0.62534;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 16.487961,22.294798 c 22.154459,6.634942 47.980669,-3.660681 64.397118,0 v 90.022412 c -12.74213,-1.93474 -43.497098,11.20667 -64.397118,0 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="rect10"
+         style="fill:#e3e3e3;fill-opacity:1;stroke:#000000;stroke-width:0.625341;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 15.958794,22.823963 c 22.154459,6.634942 47.980668,-3.660681 64.397117,0 v 90.022417 c -12.742128,-1.93474 -43.497097,11.20667 -64.397117,0 z"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="47.426731"
+         y="50.234608"
+         id="text852"><tspan
+           sodipodi:role="line"
+           id="tspan850"
+           x="47.426731"
+           y="50.234608"
+           style="font-size:7.76111px;text-align:center;text-anchor:middle;stroke-width:0.264583">Fabio Zanini</tspan><tspan
+           sodipodi:role="line"
+           x="47.426731"
+           y="59.935993"
+           style="font-size:7.76111px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan854" /><tspan
+           sodipodi:role="line"
+           x="47.426731"
+           y="69.637383"
+           style="font-size:7.76111px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan856">lab book #1</tspan><tspan
+           sodipodi:role="line"
+           x="47.426731"
+           y="79.338768"
+           style="font-size:7.76111px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan860" /><tspan
+           sodipodi:role="line"
+           x="47.426731"
+           y="89.040154"
+           style="font-size:7.76111px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan864">2021</tspan></text>
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.245614px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 18.275734,19.886587 -2.417231,2.495687 1.700575,0.603038 2.233349,-2.672487 z"
+         id="path912" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 85.166839,59.220654 H 112.83295"
+       id="path927"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#b1d9ff;fill-opacity:1;stroke:#000000;stroke-width:0.365;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect1247"
+       width="36.396797"
+       height="35.115952"
+       x="124.3477"
+       y="58.622761" />
+    <rect
+       style="fill:#dcb1ff;fill-opacity:1;stroke:#000000;stroke-width:0.365001;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect1247-3"
+       width="36.396797"
+       height="35.115952"
+       x="158.28552"
+       y="17.37953" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76482px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.162437"
+       x="141.93637"
+       y="78.237633"
+       id="text852-5"><tspan
+         sodipodi:role="line"
+         id="tspan850-6"
+         x="141.93637"
+         y="78.237633"
+         style="font-size:4.76482px;text-align:center;text-anchor:middle;stroke-width:0.162437">Fabio Zanini</tspan><tspan
+         sodipodi:role="line"
+         x="141.93637"
+         y="84.193657"
+         style="font-size:4.76482px;text-align:center;text-anchor:middle;stroke-width:0.162437"
+         id="tspan854-2" /><tspan
+         sodipodi:role="line"
+         x="141.93637"
+         y="90.149681"
+         style="font-size:4.76482px;text-align:center;text-anchor:middle;stroke-width:0.162437"
+         id="tspan1298">project #1</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.365001;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect1247-7"
+       width="36.396805"
+       height="8.3288898"
+       x="124.3477"
+       y="58.622761" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.15118px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.10378"
+       x="130.76802"
+       y="64.01609"
+       id="text1319"><tspan
+         sodipodi:role="line"
+         id="tspan1317"
+         x="130.76802"
+         y="64.01609"
+         style="stroke-width:0.10378">local repo</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.365001;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect1247-7-0"
+       width="36.396805"
+       height="8.3288898"
+       x="158.28551"
+       y="17.37953" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.15118px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.10378"
+       x="164.70583"
+       y="22.77286"
+       id="text1319-9"><tspan
+         sodipodi:role="line"
+         id="tspan1317-3"
+         x="164.70583"
+         y="22.77286"
+         style="stroke-width:0.10378">remote repo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76483px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.162437"
+       x="176.27298"
+       y="33.158218"
+       id="text852-5-6"><tspan
+         sodipodi:role="line"
+         id="tspan850-6-0"
+         x="176.27298"
+         y="33.158218"
+         style="font-size:4.76483px;text-align:center;text-anchor:middle;stroke-width:0.162437">Fabio Zanini</tspan><tspan
+         sodipodi:role="line"
+         x="176.27298"
+         y="39.114258"
+         style="font-size:4.76483px;text-align:center;text-anchor:middle;stroke-width:0.162437"
+         id="tspan854-2-6" /><tspan
+         sodipodi:role="line"
+         x="176.27298"
+         y="45.070293"
+         style="font-size:4.76483px;text-align:center;text-anchor:middle;stroke-width:0.162437"
+         id="tspan1298-2">project #1</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 162.66269,64.723855 c 0,0 9.57722,0.621226 9.57722,-9.577216"
+       id="path1366" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.564999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.13, 1.13;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Mend-6)"
+       d="m 155.37518,45.445891 c 0,0 -9.57722,-0.62123 -9.57722,9.57721"
+       id="path1366-8" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="122.45887"
+       y="24.879505"
+       id="text1567"><tspan
+         sodipodi:role="line"
+         id="tspan1565"
+         x="122.45887"
+         y="24.879505"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';stroke-width:0.264583">git</tspan></text>
+  </g>
+</svg>
